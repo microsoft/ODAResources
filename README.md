@@ -1,3 +1,8 @@
+## What is this repository for
+
+If you are using, delivering the On-Demand assessments (https://docs.microsoft.com/en-us/services-hub/health/index) you might need additional insights on some checks, that particula solution is using.
+In this repository we are providing hints for the most common seen issues, so they could get more clear.
+
 
 # Contributing
 
